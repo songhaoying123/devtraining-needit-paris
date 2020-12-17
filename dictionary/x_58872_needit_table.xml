@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table" max_length="40" name="x_58872_needit_table" sizeclass="1" type="collection">
+        <element label="field1" max_length="29" name="field1" type="string"/>
+        <element label="field2" max_length="20" name="field2" type="string"/>
+        <element label="field3" max_length="20" name="field3" type="string"/>
+        <element label="field4" max_length="20" name="field4" type="string"/>
+        <element label="field5" max_length="20" name="field5" type="string"/>
+    </element>
+</database>
